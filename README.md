@@ -26,4 +26,5 @@ transformers==4.26.1
 8. rerank.py 
 9. submit_pipeline.ipynb
 
-Translation: The above is the implemented code section. It is worth noting that our solution is a single model. Since our team participated in the competition relatively late (15 days left), many ideas were not implemented, such as distillation and ensemble recall models (code implemented but not enough training time), and ensemble rerank models (not implemented, such as stacking and LightGBM). In the future, I will add these parts and test the LB score offline (if there is time).
+
+The above is the implemented code section. It is worth noting that our solution is a single model. Since our team participated in the competition relatively late (15 days left), many ideas were not implemented, such as distillation and ensemble recall models (code implemented but not enough training time), and ensemble rerank models (not implemented, such as stacking and LightGBM). In the future, I will add these parts and test the LB score offline (if there is time).
