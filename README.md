@@ -1,4 +1,4 @@
-# LECR-49th-solution-code
+# LECR-49th-Solution-Code
 
 This code repository is used to store my solution code for the LECR Kaggle data science competition. This is my first time participating in a Kaggle competition, so any errors or areas for improvement are welcome. Please feel free to provide feedback on my code.
 
